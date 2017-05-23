@@ -1,5 +1,7 @@
-Ruby V. 2.3.3
-Rails V. 5.1.1
+# Ruby on Rails Tutorial
 
-Deployment instructions:
-  Run $ rails server at the command line on local machine/server. Paste the URL  http://localhost:3000 into the address bar of your browser.
+## "hello, world!"
+
+This is the first application for the
+[*Ruby on Rails Tutorial*](http://www.railstutorial.org/)
+by [Michael Hartl](http://www.michaelhartl.com/). Hello, world!
